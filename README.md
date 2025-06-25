@@ -14,3 +14,10 @@ Comunicação Serial via USB
 Servomotores MG996R e MG90
 
 Impressão 3D (manufatura aditiva)
+
+📁 Conteúdo do Repositório
+main.py: código principal da IHM em Python
+
+funcoes.py: funções auxiliares da interface
+
+codigo_arduino.ino: sketch para controle dos servomotores via Arduino
